@@ -22,6 +22,7 @@ section {
     margin: 0 auto;
     padding: 50px;
     display: flex;
+    flex-direction: row;
 }
 .head-bar {
     display: flex;
