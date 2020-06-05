@@ -5,6 +5,13 @@ body {
     box-sizing: border-box;
     background: linear-gradient(to right,#dbe2ef, #b8c8e7);
 }
+header {
+  max-height: 10vh;
+}
+
+section {
+  max-height: 90vh;
+}
 
 .wrapper {
     max-width: 1200px;
