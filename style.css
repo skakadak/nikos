@@ -110,6 +110,7 @@ section {
     flex-wrap: nowrap;
     justify-content: space-around;
     text-align: center;
+    padding: 20px;
 }
 
 .card {
