@@ -17,7 +17,11 @@ section {
     max-width: 1200px;
     margin: 0 auto;
 }
-
+.wrapper-cards {
+     max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px;
+}
 .head-bar {
     display: flex;
     justify-content: space-between;
