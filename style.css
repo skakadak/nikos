@@ -18,9 +18,10 @@ section {
     margin: 0 auto;
 }
 .wrapper-cards {
-     max-width: 1200px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 50px;
+    display: flex;
 }
 .head-bar {
     display: flex;
@@ -120,7 +121,7 @@ section {
 .card {
     background-color: #e8e8f3;
     margin: 50px 10px;
-    padding: 50px 10px 0;
+    padding: 30px;
 }
 
 footer.wrapper {
